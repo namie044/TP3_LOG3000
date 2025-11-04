@@ -73,7 +73,7 @@ Avant de commencer, assurez-vous d'avoir installé :
    - **Bouton "C"** : Efface l'affichage
    - **Gestion d'erreurs** : Messages d'erreur pour les expressions invalides
 
-## 🧪 Tests
+## Tests
 
 ### Exécution des tests
 
@@ -81,7 +81,7 @@ Avant de commencer, assurez-vous d'avoir installé :
 python -m pytest tests/
 ```
 
-## 🤝 Contribution
+## Contribution
 
 ### Flux de contribution
 
