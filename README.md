@@ -16,6 +16,6 @@ o Prérequis d’installation
 - Python et pip installés.
 
 o Instructions d’installation
-Cloner le dépôt GitHub : git clone 
-Lancer le server Flask : python app.py
-Accéder à l’application : http://127.0.0.1:5500/templates/index.html
+- Cloner le dépôt GitHub : git clone 
+- Lancer le server Flask : python app.py
+- Accéder à l’application : http://127.0.0.1:5500/templates/index.html
