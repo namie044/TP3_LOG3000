@@ -42,7 +42,7 @@ class TestSubtraction:
         """Test de soustraction avec nombres positifs"""
         assert subtract(5, 3) == 2
         assert subtract(10, 4) == 6
-        assert subtract(5, 0) == -5
+        assert subtract(5, 0) == 5
 
     def test_subtract_negative_numbers(self):
         """Test soustraction avec nombres négatifs"""
