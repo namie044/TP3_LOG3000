@@ -111,3 +111,4 @@ python -m pytest tests/
 - **Bugs :** Utilisez le label `bug` avec une description détaillée
 - **Fonctionnalités :** Utilisez le label `feat`
 - **Documentation :** Utilisez le label `documentation`
+- **Correction :** Utilisez le label `fix`
